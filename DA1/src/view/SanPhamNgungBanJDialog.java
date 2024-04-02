@@ -151,48 +151,7 @@ public class SanPhamNgungBanJDialog extends javax.swing.JDialog {
 
     private void tblSPMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tblSPMouseClicked
         // TODO add your handling code here:
-//        this.row = tblQLSP.getSelectedRow();
-//        this.editForm();
-//
-//        DefaultComboBoxModel modelkt = (DefaultComboBoxModel) cbbSize.getModel();
-//        modelkt.removeAllElements();
-//        List<Size> listCbbkt = sizeService.selectAll();
-//        for (Size size : listkt) {
-//            modelkt.addElement(size);
-//        }
-//        modelkt.setSelectedItem(getBySize(tblQLSP.getValueAt(row, 6).toString()));
-//
-//        //mau sac
-//        DefaultComboBoxModel modelms = (DefaultComboBoxModel) cbbMauSac.getModel();
-//        modelms.removeAllElements();
-//        for (MauSac ms : listms) {
-//            modelms.addElement(ms);
-//        }
-//        modelms.setSelectedItem(getByMauSac(tblQLSP.getValueAt(row, 7).toString()));
-//
-//        //chat lieu
-//        DefaultComboBoxModel modelcl = (DefaultComboBoxModel) cbbChatLieu.getModel();
-//        modelcl.removeAllElements();
-//        for (ChatLieu cl : listcl) {
-//            modelcl.addElement(cl);
-//        }
-//        modelcl.setSelectedItem(getByChatLieu(tblQLSP.getValueAt(row, 8).toString()));
-//
-//        //danh muc
-//        DefaultComboBoxModel modeldm = (DefaultComboBoxModel) cbbDanhMuc.getModel();
-//        modeldm.removeAllElements();
-//        for (DanhMuc dm : listdm) {
-//            modeldm.addElement(dm);
-//        }
-//        modeldm.setSelectedItem(getByDanhMuc(tblQLSP.getValueAt(row, 9).toString()));
-//
-//        //thuong hieu
-//        DefaultComboBoxModel modelth = (DefaultComboBoxModel) cbbThuongHieu.getModel();
-//        modelth.removeAllElements();
-//        for (ThuongHieu th : listth) {
-//            modelth.addElement(th);
-//        }
-//        modelth.setSelectedItem(getByThuongHieu(tblQLSP.getValueAt(row, 10).toString()));
+
     }//GEN-LAST:event_tblSPMouseClicked
 
     private void btnHienThiLaiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHienThiLaiActionPerformed
